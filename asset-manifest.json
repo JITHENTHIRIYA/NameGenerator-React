@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NameGenerator-React/static/css/main.4e0e3a3e.chunk.css",
+    "main.js": "/NameGenerator-React/static/js/main.65f715f5.chunk.js",
+    "main.js.map": "/NameGenerator-React/static/js/main.65f715f5.chunk.js.map",
+    "runtime-main.js": "/NameGenerator-React/static/js/runtime-main.3bf61b87.js",
+    "runtime-main.js.map": "/NameGenerator-React/static/js/runtime-main.3bf61b87.js.map",
+    "static/js/2.d7345c3e.chunk.js": "/NameGenerator-React/static/js/2.d7345c3e.chunk.js",
+    "static/js/2.d7345c3e.chunk.js.map": "/NameGenerator-React/static/js/2.d7345c3e.chunk.js.map",
+    "index.html": "/NameGenerator-React/index.html",
+    "static/css/main.4e0e3a3e.chunk.css.map": "/NameGenerator-React/static/css/main.4e0e3a3e.chunk.css.map",
+    "static/js/2.d7345c3e.chunk.js.LICENSE.txt": "/NameGenerator-React/static/js/2.d7345c3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf61b87.js",
+    "static/js/2.d7345c3e.chunk.js",
+    "static/css/main.4e0e3a3e.chunk.css",
+    "static/js/main.65f715f5.chunk.js"
+  ]
+}
